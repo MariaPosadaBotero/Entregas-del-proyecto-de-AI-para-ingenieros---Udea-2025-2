@@ -12,5 +12,8 @@ Ingenieria Industrial.
 C.C: 1193123469. <br>
 Ingenieria Industrial.
 
+##Link del video entrega 2 - Preprocesado.
+https://youtu.be/QNfy_KyuFwg?si=-1pujAuf_HSTpMfn
+
 
 
