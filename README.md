@@ -15,5 +15,7 @@ Ingenieria Industrial.
 ## Link del video entrega 2 - Preprocesado:
 https://youtu.be/QNfy_KyuFwg?si=-1pujAuf_HSTpMfn
 
+## Link del video entrega final - Modelo Solución:
+https://youtu.be/DwHYYcsosH8?si=trv-bYXbJW-qAFxD
 
 
